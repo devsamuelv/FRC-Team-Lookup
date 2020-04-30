@@ -28,8 +28,15 @@ def CheckExists(xpath):
         return False
     return True
 
+# this is the Main Function 
 def main():
     CurrentURL = vars.defaultURL + teamNumber
+
+    info = ""
+    From = ""
+    website = ""
+    name = ""
+    robotName = ""
 
     if util.sendRequest(CurrentURL) == False:
         print("\033[31m" + "ERROR: Sorry That Team Number is Incorrect" + "\033[39m")
@@ -41,12 +48,6 @@ def main():
 
     if driver.current_url != CurrentURL:
         return
-
-    info = ""
-    From = ""
-    website = ""
-    name = ""
-    robotName = ""
 
     if CheckExists(vars.teamInfoXPath) == False:
         info = "None"
