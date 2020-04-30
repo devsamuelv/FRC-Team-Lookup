@@ -45,6 +45,6 @@ def main():
 
 main()
 
-
+# print the current address
 def PrintCurrentAddr():
     print(driver.current_url)
