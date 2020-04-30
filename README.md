@@ -7,5 +7,5 @@
     - firefox
 - Steps
     - 1 make sure pip is in your path
-    - 2 install selenium using pip
+    - 2 install selenium using pip `pip install selenium`
     - 3 Type in cmd `python3 Main.py`
