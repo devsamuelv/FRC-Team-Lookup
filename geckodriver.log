@@ -326,3 +326,79 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1595440130322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-extensions" "--disable-gpu" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9cFcV7"
+*** You are running in headless mode.
+Gtk-Message: 13:48:50.364: Failed to load module "appmenu-gtk-module"
+1595440135315	Marionette	INFO	Listening on port 46765
+1595440135370	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595440146588	Marionette	INFO	Stopped listening on port 46765
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1595440493643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-extensions" "--disable-gpu" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYlFeb6"
+*** You are running in headless mode.
+Gtk-Message: 13:54:53.665: Failed to load module "appmenu-gtk-module"
+1595440496860	Marionette	INFO	Listening on port 43299
+1595440496873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595440523860	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-extensions" "--disable-gpu" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBI0MPB"
+*** You are running in headless mode.
+Gtk-Message: 13:55:23.880: Failed to load module "appmenu-gtk-module"
+1595440527744	Marionette	INFO	Listening on port 37917
+1595440527785	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595440530781	Marionette	INFO	Stopped listening on port 37917
+1595440577207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-extensions" "--disable-gpu" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHFbUIM"
+*** You are running in headless mode.
+Gtk-Message: 13:56:17.228: Failed to load module "appmenu-gtk-module"
+1595440582012	Marionette	INFO	Listening on port 35425
+1595440582052	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595440586926	Marionette	INFO	Stopped listening on port 35425
+1595440626331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-extensions" "--disable-gpu" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile55K4Uz"
+*** You are running in headless mode.
+Gtk-Message: 13:57:06.352: Failed to load module "appmenu-gtk-module"
+1595440630454	Marionette	INFO	Listening on port 39975
+1595440630553	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595440633877	Marionette	INFO	Stopped listening on port 39975
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1595440660409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-extensions" "--disable-gpu" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh1qCqZ"
+*** You are running in headless mode.
+Gtk-Message: 13:57:40.430: Failed to load module "appmenu-gtk-module"
+1595440664128	Marionette	INFO	Listening on port 35153
+1595440664236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595440669673	Marionette	INFO	Stopped listening on port 35153
+1595440696632	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-extensions" "--disable-gpu" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeczJKi"
+*** You are running in headless mode.
+Gtk-Message: 13:58:16.658: Failed to load module "appmenu-gtk-module"
+1595440702259	Marionette	INFO	Listening on port 38067
+1595440702272	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1595440790622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-extensions" "--disable-gpu" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTZdc49"
+*** You are running in headless mode.
+Gtk-Message: 13:59:50.643: Failed to load module "appmenu-gtk-module"
+1595440794558	Marionette	INFO	Listening on port 40729
+1595440794645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595440798168	Marionette	INFO	Stopped listening on port 40729
+Exiting due to channel error.
+1595440847599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-extensions" "--disable-gpu" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3RZeK4"
+*** You are running in headless mode.
+Gtk-Message: 14:00:47.618: Failed to load module "appmenu-gtk-module"
+1595440851536	Marionette	INFO	Listening on port 44999
+1595440851635	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595440855965	Marionette	INFO	Stopped listening on port 44999
+Exiting due to channel error.
+1595440957875	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-extensions" "--disable-gpu" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUzBI5s"
+*** You are running in headless mode.
+Gtk-Message: 14:02:37.897: Failed to load module "appmenu-gtk-module"
+1595440962755	Marionette	INFO	Listening on port 39943
+1595440962841	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595441120110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-extensions" "--disable-gpu" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekIVnjt"
+*** You are running in headless mode.
+Gtk-Message: 14:05:20.138: Failed to load module "appmenu-gtk-module"
+1595441126846	Marionette	INFO	Listening on port 33291
+1595441126950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595441144285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-extensions" "--disable-gpu" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileluyuXT"
+*** You are running in headless mode.
+Gtk-Message: 14:05:44.308: Failed to load module "appmenu-gtk-module"
+1595441149215	Marionette	INFO	Listening on port 35971
+1595441149281	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595441155539	Marionette	INFO	Stopped listening on port 35971

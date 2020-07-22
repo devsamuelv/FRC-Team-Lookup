@@ -1,5 +1,6 @@
 import time
 import requests
+from selenium import webdriver
 
 DeBugging = False
 
@@ -25,8 +26,8 @@ def PrintPageData(teamName, teamFrom, RobotName, website, info):
         "\033[31m" + "Team Name: " + teamName + "\n" + "\033[39m"
         "\033[36m" + "Team From: " + teamFrom + "\n"+ "\033[39m"
         # "Rookie year " + RookieYear + "\n"
-        "\033[35m" + "Robot Name: " + RobotName + "\n" + "\033[39m"
+        + "\033[35m" + "Robot Name: " + RobotName + "\n" + "\033[39m"
         "\033[32m" + "Website: " + website + "\n" + "\033[39m"
         "\033[33m" + "Team Info: " + info + "\n" + "\033[39m"
         #"GitHub " + "github" + "\n"
-    )
+        )

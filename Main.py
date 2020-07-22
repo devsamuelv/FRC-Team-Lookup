@@ -28,7 +28,7 @@ def CheckExists(xpath):
         return False
     return True
 
-# this is the Main Function 
+# this is the Main Function
 def main():
     CurrentURL = vars.defaultURL + teamNumber
 
@@ -74,9 +74,10 @@ def main():
     else:
         robotName = driver.find_element_by_xpath(vars.robotNameXPath).text
 
+
     util.PrintPageData(name, From, robotName, website, info)
 
     driver.close()
-
+    exit()
 
 main()
