@@ -10,8 +10,8 @@
 - Steps **Windows**
     - 1 make sure pip is in your path
     - 2 make sure Firefox is installed and in your path
-    - 3 install selenium using pip `setup.bat`
-    - 4 Type in cmd `run.bat`
+    - 3 install selenium using pip `setup`
+    - 4 Type in cmd `run`
 
 
 - Steps **Linux**
